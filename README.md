@@ -12,7 +12,7 @@ SQL(PostgreSQL), Yandex DataLens
 <img width="569" height="374" alt="image" src="https://github.com/user-attachments/assets/1b809610-7d33-42c5-bf80-953769c20561" />
 
 ## Ссылка на дашборд
-https://datalens.yandex.cloud/y5u8ycfony34k
+https://datalens.yandex/y5u8ycfony34k
 
 ## Результаты анализа
 ### Шаг 1. Время активности объявлений
